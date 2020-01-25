@@ -1,0 +1,1 @@
+Git basics for 3 way merging.  So far have edited and committed greeting.txt
